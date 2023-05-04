@@ -1,4 +1,4 @@
-// schemas/pet.js
+// schemas/car.js
 export default {
   name: 'car',
   type: 'document',
